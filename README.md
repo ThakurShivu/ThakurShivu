@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAGiHYRsRAE/UZrloG2oP8l-83E4xUB4EQ/edit?utm_content=DAGiHYRsRAE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![logo](https://github.com/ThakurShivu/ThakurShivu/blob/main/Blue%20Textured%20Space%20Landscape%20Hello%20World%20Desktop%20Wallpaper.png)
 
 
 <h1 align="center">Hi 👋, I'm Shivani Singh</h1>
